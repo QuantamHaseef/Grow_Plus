@@ -1,0 +1,6 @@
+{
+  "name": "GrowPulse LinkedIn Growth",
+  "description": "Turn your LinkedIn from invisible to influential with proven growth architecture and profile audits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
